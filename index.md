@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+It's the index
 
-Maybe say a some things about yourself.
+It's the start
 
-Or maybe what you plan to blog about.
+I hope it's cool
